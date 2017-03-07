@@ -1,0 +1,168 @@
+\bibitem{Allen_1988a}
+P. Allen, Integrating vision and touch for object recognition tasks, \emph{International Journal of Robotics Research}, vol.7, no.6, pp.15-33, 1988.
+\bibitem{Allen_1989a}
+P. Allen, and K. Roberts, Haptic object recognition using a multi-fingered dexterous hand, \emph{IEEE International Conference on Robotics and Automation (ICRA)}, pp.342-347, 1989.
+\bibitem{Alt_2014a}
+N. Alt, and E.Steinbach, Navigation and manipulation planning using a visuo-haptic sensor on a mobile platform, \emph{IEEE Transactions on Instrumentation and Measurement}, vol.63, no.11, pp.2570-2582, 2014.
+\bibitem{Bahrampour_2015a}
+S. Bahrampour, N. M. Nasrabadi, A. Ray, and W. K. Jenkins, Multimodal task-driven dictionary learning for image classification, \emph{IEEE Transactions on Image Processing}, vol.25, no.1, pp.24-38, 2015.
+\bibitem{Beauchamp_2005a}
+M. S. Beauchamp, See me, hear me, touch me: multisensory integration in lateral occipital-temporal cortex, \emph{Current Opinion in Neurobiology}, vol.15, no.2, pp.145-153, 2005.
+\bibitem{Bekiroglu_2011a}
+Y. Bekiroglu, J. Laaksonen, J. A. Jorgensen, V. Kyrki, and D. Kragic, Assessing grasp stability based on learning and haptic data, \emph{IEEE Transactions on Robotics}, vol.27, no.3, pp.616-629, 2011.
+\bibitem{Bekiroglu_2011b}
+Y. Bekiroglu, R. Detry, and D. Kragic, Learning tactile characterizations of object- and pose-specific grasps, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.1554-1560, 2011.
+\bibitem{Bhattacharjee_2015a}
+T. Bhattacharjee, A. A. Shenoi, D. Park, J. M. Rehg, and C. C. Kemp, Combining tactile sensing and vision for rapid haptic mapping, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.1200-1207, 2015.
+\bibitem{Bjorkman_2013a}
+M. Bjorkman, Y. Bekiroglu, V. Hogman, and D. Kragic, Enhancing visual perception of shape through tactile glances, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.3180-3186, 2013.
+\bibitem{Boshra_2000a}
+M. Boshra, and H. Zhang, Localizing a polyhedral object in a robot hand by integrating visual and tactile data, \emph{Pattern Recognition}, vol.33, no.3, pp.483-501, 2000.
+\bibitem{Burka_2015a}
+A. Burka, S. Hu, S. Krishnan, K. J. Kuchenbecker, L. A. Hendricks, Y. Gao, T. Darrell, Toward a large-scale visuo-haptic dataset for robotic learning, \emph{International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)}, 2015.
+\bibitem{Chathuranga_2015a}
+D. S. Chathuranga, Z. Wang, Y. Noh, T. Nanayakkara, and S. Hirai, Robust real time material classification algorithm using soft three axis tactile sensor: evaluation of the algorithm, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.2093-2098, 2015.
+\bibitem{Cheng_2015a}
+Y. Cheng, C. Su, Y. Jia, and N. Xi, Data correlation approach for slippage detection in robotic manipulations using tactile sensor array, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.2717-2722, 2015.
+\bibitem{Chitta_2011a}
+S. Chitta, J. Sturm, M. Piccoli, and W. Burgard, Tactile sensing for mobile manipulation, \emph{IEEE Transactions on Robotics}, vol.27, no.3, pp.558-568, 2011.
+\bibitem{Chu_2014a}
+V. Chu, I. McMahon, L. Riano, C. McDonald, Q. He, J. Perez-Tejada, M. Arrigo, T. Darrell, and K. Kuchenbecker, Robotic learning of haptic adjectives through physical interaction, \emph{Robotics and Autonomous Systems}, vol.63, pp.279-292, 2014.
+\bibitem{Corradi_2015a}
+T. Corradi, P. Hall, and P. Iravani, Bayesian tactile object recognition: learning and recognizing objects using a new inexpensive tactile sensor, \emph{IEEE International Conference on Robotics and Automation (ICRA)}, pp.3909-3914, 2015.
+\bibitem{Culbertson_2014a}
+H. Culbertson, D. Lopez, J. Juan, and K. Kuchenbecker, The Penn haptic texture toolkit for modeling, rendering, and evaluating haptic virtual textures, \emph{Technical Report}, 2014.
+\bibitem{Dahiya et al, 2010a}
+R. Dahiya, G. Metta, M. Valle, and G. Sandini, Tactile sensing〞from humans to humanoids, \emph{IEEE Transactions on Robotics}, vol.26, no.1, pp.1-20, 2010.
+\bibitem{Dahiya_2013a}
+R. S. Dahiya, P. Mittendorfer, M. Valle, G. Cheng, and V. J. Lumelsky, Directions toward effective utilization of tactile skin: A review, \emph{IEEE Sensors Journal}, vol.13, no.11, pp.4121-4138, 2013.
+\bibitem{Dallaire_2014a}
+P. Dallaire, P. Gigu, P Re, D. Emond, and B. Chaibdraa, Autonomous tactile perception: a combined improved sensing and Bayesian nonparametric approach, \emph{Robotics and Autonomous Systems}, vol.62, no.4, pp.422-435, 2014.
+\bibitem{Dang_2013}
+H. Dang, Stable and semantic robotic grasping using tactile feedback, Columbia University, 2013.
+\bibitem{Decherchi_2011a}
+S. Decherchi, P. Gastaldo, R. S. Dahiya, M. Valle, and R. Zunino, Tactile-data classification of contact materials using computational intelligence, \emph{IEEE Transactions on Robotics}, vol.27, no.3, pp.635-639, 2011.
+\bibitem{Denei_2015a}
+S. Denei, P. Maiolino, E. Baglini, and G. Cannata, On the development of a tactile sensor for fabric manipulation and classification for industrial applications, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.5081-5086, 2015.
+\bibitem{Drimus_2014a}
+A. Drimus, G. Kootstra, A. Bilberg, and D. Kragic, Design of a flexible tactile sensor for classification of rigid and deformable objects, \emph{Robotics and Autonomous Systems}, vol.62, no.1, pp.3-15, 2014.
+\bibitem{Ernst_2002a}
+M. O. Ernst, and M. S. Banks, Humans integrate visual and haptic information in a statistically optimal fashion, \emph{Nature}, vol.415, pp.429-433, 2002.
+\bibitem{Gao_2016a}
+Y. Gao, L. A. Hendricks, K. J. Kuchenbecker, and T. Darrell, Deep learning for tactile understanding from visual and haptic data, \emph{IEEE International Conference Robotics and Automation (ICRA)}, 2016.
+\bibitem{Gemici_2014a}
+M. C. Gemici, and A. Saxena, Learning haptic representation for manipulating deformable food objects, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.638-645, 2014.
+\bibitem{Goldfeder_2009a}
+C. Goldfeder, M. Ciocarlie, H. Dang, and P. K. Allen, The Columbia grasp database, \emph{IEEE International Conference on Robotics and Automation (ICRA)}, pp.3343-3349, 2009.
+\bibitem{Guler_2014a}
+P. Guler, Y. Bekiroglu, X. Gratal, K. Pauwels, and D. Kragic, What＊s in the container? classifying object contents from vision and touch, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.3961-3968, 2014.
+\bibitem{Helbig_2007a}
+H. B. Helbig, and M. O. Ernst, Optimal integration of shape information from vision and touch, \emph{Experimental Brain Research}, vol.179, no.179, pp.595-606, 2007.
+\bibitem{Heller_1982a}
+M. A. Heller, Visual and tactual texture perception: intersensory cooperation, \emph{Journal of Perception and Psychophysics}, vol.31, no.4, pp.339-344, 1982.
+\bibitem{Heyneman_2012a}
+B. Heyneman, and M. R. Cutkosky, Biologically inspired tactile classification of object-hand and object-world interactions, \emph{IEEE International Conference on Robotics and Biomimetics (ROBIO)}, pp.167-173, 2012.
+\bibitem{Hsiao_2010a}
+K. Hsiao, L. P. Kaelbling, and T. Lozano-Perez, Task-driven tactile exploration, \emph{Proceedings of Robotics: Science and Systems (RSS)}, pp.1-8, 2010.
+\bibitem{Ho_2012a}
+V. Ho, T. Nagatani, A. Noda, and S. Hirai, What can be inferred from a tactile arrayed sensor in-hand manipulation? , \emph{IEEE International Conference on Automation Science and Engineering (CASE)}, pp.461 -468, 2012.
+\bibitem{Ilonen_2013a}
+J. Ilonen, J. Bohg, and V. Kyrki, Fusing visual and tactile sensing for 3-D object reconstruction while grasping, \emph{IEEE International Conference on Robotics and Automation (ICRA)}, pp.3547-3554, 2013.
+\bibitem{Jamali_2011a}
+N. Jamali, and C. Sammut, Majority voting: material classification by tactile sensing using surface texture, \emph{IEEE Transactions on Robotics}, vol.27, no.3, pp.508-521, 2011.
+\bibitem{Jin_2012a}
+M. Jin, H. Gu, S. Fan, Y. Zhang, and H. Liu, Object shape recognition approach for sparse point clouds from tactile exploration, \emph{IEEE International Conference on Robotics and Biomimetics (ROBIO)}, pp. 558-562, 2013.
+\bibitem{Kappassov_2015a}
+Z. Kappassov, J. A. Corrales, and V. Perdereau, Tactile sensing in dexterous robot hands ----review, \emph{Robotics and Autonomous Systems}, vol.74, no.1, pp.195-220, 2015.
+\bibitem{Kroemer_2011a}
+O. Kroemer, C. H. Lampert, and J. Peters, Learning dynamic tactile sensing with robust vision-based training, \emph{IEEE Transactions on Robotics}, vol.27, no.3, pp.545-557, 2011.
+\bibitem{Kyo_2014a}
+S. Kyo, and K. Ohnishi, Toward object recognition and manipulation by human motion data with vision and tactile sensation, \emph{IEEE Annual Conference of the IEEE Industrial Electronics Society}, pp.4074 -4080, 2014.
+\bibitem{Lai_2011a}
+K. Lai, L. Bo, X. Ren, and D. Fox, A large-scale hierarchical multi-view RGB-D object dataset, \emph{IEEE International Conference Robotics and Automation (ICRA)}, pp.1817-1824, 2011.
+\bibitem{Lederman_1987a}
+S. J. Lederman, and R. L. Klatzky, Hand movements: a window into haptic object recognition, \emph{Cognitive Psychology}, vol.19, no.3, pp.342-368, 1987.
+\bibitem{Lee_1999a}
+M. H. Lee, and H. R. Nicholls, Review article tactile sensing for mechatronics〞a state of the art survey, \emph{Mechatronics}, vol.9, no.1, pp.1-31, 1999.
+\bibitem{Lee_2000a}
+M. H. Lee, Tactile sensing: new directions, new challenges, \emph{International Journal of Robotics Research}, vol.19, no.7, pp.636-643, 2000.
+\bibitem{Li_2013a}
+R. Li, and E. H. Adelson, Sensing and recognizing surface textures using a gelSight sensor, \emph{IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, pp.1241-1247, 2013.
+\bibitem{Liarokapis_2015a}
+M. V. Liarokapis, B. Calli, A. J. Spiers, and A. M. Dollar, Unplanned, model-free, single grasp object classification with underactuated hands and force sensors, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.5073-5080, 2015.
+\bibitem{Liu_2012a}
+H. Liu, X. Song, T. Nanayakkara, L. Seneviratne, and K. Althoefer, A computationally fast algorithm for local contact shape and pose classification using a tactile array sensor, \emph{IEEE International Conference Robotics and Automation (ICRA)}, pp.1410-1415, 2012.
+\bibitem{Liu_2016a}
+H. Liu, D. Guo, and F. Sun, Object recognition using tactile measurements: kernel sparse coding methods, \emph{IEEE Transactions on Instrumentation and Measurement}, vol.65, no.3, pp.656-665, 2016.
+\bibitem{Liu_2016b}
+H. Liu, Y. Yu, J. Gu, and F. Sun, Visual-tactile fusion for object recognition, \emph{IEEE Transactions on Automation Science and Engineering}, conditionally accepted.
+\bibitem{Luo_2015a}
+S. Luo, W. Mou, K. Althoefer, and H. Liu, Novel tactile-SIFT descriptor for object shape recognition, \emph{IEEE Sensors Journal}, vol.15, no.9, pp.5001-5009, 2015.
+\bibitem{Luo_2015b}
+S. Luo, W. Mou, K. Althoefer, and H. Liu, Localizing the object contact through matching tactile features with visual map, \emph{IEEE International Conference Robotics and Automation (ICRA)}, pp.3903-3908, 2015.
+\bibitem{Ma_2014a}
+R. Ma, H. Liu, F. Sun, Q. Yang, and M. Gao, Linear dynamic system method for tactile object classification, \emph{Science China Information Sciences}, vol.57, no.12, pp.1-11, 2014.
+\bibitem{Madry_2014a}
+M. Madry, L. Bo, D. Kragic, and D. Fox, ST-HMP: Unsupervised spatio-temporal feature learning for tactile data, \emph{IEEE International Conference on Robotics and Automation (ICRA)}, pp.2262-2269, 2014.
+\bibitem{Maldonado_2012a}
+A. Maldonado, H. Alvarez, and M. Beetz, Improving robot manipulation through fingertip perception, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.2947-2954, 2012.
+\bibitem{Miller_2004a}
+A. Miller, and P. Allen, Graspit! A versatile simulator for robotic grasping, \emph{IEEE Robotics and Automation Magazine}, vol.11, no.4, pp.110-122, 2004.
+\bibitem{Natale_2004a}
+L. Natale, G. Metta, and G. Sandini, Learning haptic representation of objects, \emph{International Conference of Intelligent Manipulation and Grasping}, pp.1-6, 2004
+\bibitem{Navarro_2012a}
+S. E. Navarro, N. Gorges, H. Worn, J. Schill, T. Asfour, and R. Dillmann, Haptic object recognition for multi-fingered robot hands, \emph{IEEE Haptics Symposium (HAPTICS)}, pp.497-502, 2012.
+\bibitem{Nguyes_2013a}
+H. V. Nguyes, V. M. Patel, N. M. Nasrabadi, and R. Chellappa, Design of non-linear kernel dictionaries for object recognition, \emph{IEEE Transactions on Image Processing}, vol.22, no.12, pp.5123-5135, 2013.
+\bibitem{Norman_2004a}
+J. Norman, H. Norman, A. Clayton, J. Lianekhammy, and G. Zielke, The visual and haptic perception of natural object shape, \emph{Perception and Psychophysics}, vol.66, no.2, pp.342-351, 2004.
+\bibitem{Petrovskaya_2011a}
+A. Petrovskaya, and O. Khatib, Global localization of objects via touch, \emph{IEEE Transactions on Robotics}, vol.27, no.3, pp.569-585, 2011.
+\bibitem{Pezzementi_2011a}
+Z. Pezzementi, E. Plaku, C. Reyda, and G. D. Hager, Tactile-object recognition from appearance information, \emph{IEEE Transactions on Robotics}, vol.27, no.3, pp.473-487, 2011.
+\bibitem{Prats_2009a}
+M. Prats, P. J. Sanz, and A. P. del Pobil, Vision-tactile-force integration and robot physical interaction, \emph{IEEE International Conference Robotics and Automation (ICRA)}, pp.3975-3980, 2009.
+\bibitem{Romano_2014a}
+J. M. Romano, and K. J. Kuchenbecker, Methods for robotic tool-mediated haptic surface recognition, \emph{IEEE Haptics Symposium}, pp.49-56, 2014.
+\bibitem{Russell_2003a}
+R. A. Russell, and J. A. Wijaya, Object location and recognition using whisker sensors, \emph{Australasian Conference on Robotics and Automation}, pp.1-9, 2003.
+\bibitem{Schmitz_2014a}
+A. Schmitz, Y. Bansho, K. Noda, and H. Iwata, Tactile object recognition using deep learning and dropout, \emph{IEEE-RAS International Conference on Humanoid Robots (Humanoids)}, pp.1044-1050, 2014.
+\bibitem{Schneider_2009a}
+A. Schneider, J. Sturm, C. Stachniss, M. Reisert, H. Burkhardt, and W. Burgard, Object identification with tactile sensors using bag-of-features, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.243-248, 2009.
+\bibitem{Shekhar_2014a}
+S. Shekhar, V. Patel, N. M. Nasrabadi, and R. Chellappa, Joint sparse representation for robust multimodal biometrics recognition, \emph{IEEE Transactions on Pattern Analysis and Machine Intelligence}, vol.36, no.1, pp.113-126, 2014.
+\bibitem{Sinapov_2011a}
+J. Sinapov, V. Sukhoy, R. Sahai, and A. Stoytchev, Vibrotactile recognition and categorization of surfaces by a humanoid robot, \emph{IEEE Transactions on Robotics}, vol.27, no.3, pp.488-497, 2011.
+\bibitem{Soh_2012a}
+H. Soh, Y. Su, and Y. Demiris, Online spatio-temporal Gaussian process experts with application to tactile classification, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.4489-4496, 2012.
+\bibitem{Soh_2014a}
+H. Soh, and Y. Demiris, Incrementally learning objects by touch: online discriminative and generative models for tactile-based recognition, \emph{IEEE Transactions on Haptics}, vol.7, no.4, pp.512-525, 2014.
+\bibitem{Son_1996a}
+J. S. Son, and R. D. Howe, J. Wang and G. D. Hager, Preliminary results on grasping with vision and touch, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.1068-1075, 1996.
+\bibitem{Song_2014a}
+A. Song, Y. Han, H. Hu, and J. Li, A novel texture sensor for fabric texture measurement and classification, \emph{IEEE Transactions on Instrumentation and Measurement}, vol.63, no.7, pp.1739-1747, 2014.
+\bibitem{Strese_2014a}
+M. Strese, J. Y. Lee, C. Schuwerk, Q. Han, H. G. Kim, and E. Steinbach, A haptic texture database for tool mediated texture recognition and classification, \emph{IEEE International Symposium on Haptic, Audio and Visual Environments and Games (HAVE)}, pp.118-123, 2014.
+\bibitem{Taira_2010a}
+R. Taira, S. Saga, T. Okatani, and K. Deguchi, 3D reconstruction of reflective surface on reflection type tactile sensor using constraints of geometrical optics, \emph{SICE Annual Conference}, pp.3144-3149, 2010.
+\bibitem{Wang_2011a}
+D. Wang, Y. Zhang, W. Zhou, H. Zhao, and Z. Chen, Collocation accuracy of visuo-haptic system: metrics and calibration, \emph{IEEE Transactions on Haptics}, vol.4, no.4, pp.321-326, 2011.
+\bibitem{Wang_2013a}
+D. Wang, X. Zhang, Y. Zhang, and J. Xiao, Configuration-based optimization for six degree-of-freedom haptic rendering for fine manipulation, \emph{IEEE Transactions on Haptics}, vol.6, no.2, pp.167-180, 2013.
+\bibitem{Westling_1984a}
+G. Westling, and R. S. Johannson, Factors influencing the force control during precision grip, \emph{Experimental Brain Research}, vol.53, no.2, pp.277-284, 1984.
+\bibitem{Woods_2004a}
+A. T. Woods, and F. N. Newell, Visual, haptic and cross-modal recognition of objects and scenes, \emph{Journal of Physiology 每 Paris}, vol.98, pp.147-159, 2004.
+\bibitem{Xu_2013a}
+D. Xu, G. E. Loeb, and J. A. Fishel, Tactile identification of objects using Bayesian exploration, \emph{IEEE International Conference Robotics and Automation (ICRA)}, pp.3056-3061, 2013.
+\bibitem{Yang_2015a}
+J. Yang, H. Liu, F. Sun, and M. Gao, Object recognition using tactile and image information, \emph{IEEE International Conference on Robotics and Biomimetics (ROBIO)}, pp.1-6, 2015.
+\bibitem{Zhang_2012a}
+Y. Zhang, and H. Liu, Tactile sensor based varying contact point manipulation strategy for dexterous robot hand manipulating unknown objects, \emph{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pp.4756-4761, 2012.
+\bibitem{Zhang_2013a}
+T. Zhang, H. Liu, L. Jiang, S. Fang, and J. Yang, Development of a flexible 3-D tactile sensor system for anthropomorphic artificial hand, \emph{IEEE Sensor Journal}, vol.13, no.2, pp.510-518, 2013.
+\bibitem{Zheng_2016a}
+H. Zheng, L. Fang, M. Ji, and M. Strese, Y. Ozer, and E. Steinbach, Deep learning for surface material classification using haptic and visual information, \emph{arXiv:1512.06658}, 2016.
+\bibitem{Zhou_2012a}
+Y. Zhou, and D. Hu, Research of virtual cutting based on haptic feedback, \emph{Applied Mechanics \& Materials}, pp.944-948, 2012.
